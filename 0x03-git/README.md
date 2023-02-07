@@ -1,1 +1,1 @@
-my second read me file in 0x03
+my second read me file bright
